@@ -1,0 +1,17 @@
+@import 'text.css';
+@import 'Stylesheet.css';
+
+
+body {
+	background-image: url(../img/img2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+
+
