@@ -5,7 +5,7 @@
     </div>
 
         <ul class="nav navbar-nav">
-          <li><a href="#">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About Us</a></li>
           <li><a href="Addons.php">Our Addons</a></li>
           <li><a href="twitch.php">Twitch</a></li>
