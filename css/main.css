@@ -13,5 +13,15 @@ body {
     border-radius: 0px;
 }
 
+.yt-player-1 {
+	display: inline-block;
+	margin: 82px;
+	padding-top: -77px;
+}
+
+.yt-player-2 {
+	display: inline-block;
+}
+
 
 
